@@ -1,3 +1,5 @@
+# Collection Project Done at Weber State University, created by Dr Kyle Feuz and finished by me.
+
 # Collection and Sorted Collection
 
 An array is great for storing a list of values.  However, one challenge when working
