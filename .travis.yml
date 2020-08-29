@@ -1,0 +1,11 @@
+language: c++
+
+addons:
+  apt:
+    packages:
+      - valgrind
+
+script:
+- make
+- make test
+- make memcheck
